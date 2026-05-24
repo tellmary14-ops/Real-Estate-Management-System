@@ -9,3 +9,4 @@ coverage/
 backend/uploads/
 .vscode/*
 !.vscode/extensions.json
+README.md
